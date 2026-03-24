@@ -36,6 +36,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10-SNAPSHOT mtk-feed  | 4            | 896.83           | 24.15                | 3560.60             | 94.02                    |
 | Radxa ROCK Pi 4B+          | Rockchip OP1 64-bit SoC | OpenWrt 24.10.2                  | 6            | 512.30           | 21.98                | 2146.80             | 80.34                    |
 | LENOVO HuronRiver Platform | Intel Pentium B950      | OpenWrt 24.10.4                  | 2            | 1010.74          | 890.66               | 2020.07             | 1782.24                  |
+| Radxa ROCK 5T              | Rockchip RK3588 (Perf)  | OpenWrt 25.12.1                  | 8            | 1058.36          | 43.34                | 5848.28             | 251.09                   |
 | FriendlyElec NanoPi R6S    | Rockchip RK3588S        | OpenWrt 24.10.2                  | 8            | 1121.20          | 40.65                | 6178.90             | 237.73                   |
 | Beelink EQ12               | Intel N100              | OpenWrt SNAPSHOT                 | 4            | 1415.47          | 2721.25              | 4909.74             | 4500.39                  |
 | Beelink EQ14               | Intel N150              | OpenWrt SNAPSHOT                 | 4            | 1449.17          | 2440.35              | 4859.34             | 5417.66                  |
