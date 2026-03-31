@@ -21,6 +21,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | TP-Link TL-WR842N v3       | Atheros QCA9531         | OpenWrt 24.10.2                  | 1            | 24.27            | 4.37                 | 26.30               | 4.54                     |
 | Beeline SmartBox TURBO+    | MediaTek MT7621A        | OpenWrt 24.10.1                  | 4            | 35.77            | 7.88                 | 92.83               | 17.94                    |
 | Xunlong Orange Pi PC Plus  | H3 Quad-core Cortex-A7  | OpenWrt 24.10.0                  | 4            | 112.43           | 132.54               | 450.46              | 349.75                   |
+| Depo Sky A60 / AK1100      | Marvell 88F6282         | OpenWrt 25.12.0                  | 1            | 115.87           | 18.00                | 116.20              | 18.15                    |
 | FriendlyElec NanoPi R2S    | Rockchip RK3328         | OpenWrt 24.10.1                  | 4            | 286.60           | 10.80                | 1144.74             | 35.30                    |
 | netis NX31                 | MediaTek MT7981B        | OpenWrt 24.10.1                  | 2            | 292.93           | 10.81                | 579.10              | 20.03                    |
 | Xiaomi Mi Router AX3000T   | MediaTek MT7981BA       | OpenWrt 24.10.1                  | 2            | 291.67           | 10.89                | 581.33              | 19.86                    |
