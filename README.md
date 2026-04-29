@@ -26,6 +26,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | netis NX31                 | MediaTek MT7981B        | OpenWrt 24.10.1                  | 2            | 292.93           | 10.81                | 579.10              | 20.03                    |
 | Xiaomi Mi Router AX3000T   | MediaTek MT7981BA       | OpenWrt 24.10.1                  | 2            | 291.67           | 10.89                | 581.33              | 19.86                    |
 | Cudy TR3000                | MediaTek MT7981BA       | OpenWrt 24.10.4                  | 2            | 292.57           | 11.03                | 581.96              | 20.43                    |
+| Cudy TR3000 256MB v1       | MediaTek MT7981BA       | OpenWrt 25.12.2                  | 2            | 313.70           | 11.01                | 602.27              | 19.97                    |
 | Xiaomi Redmi Router AX6S   | MediaTek MT7622BV       | OpenWrt 24.10.2                  | 2            | 304.43           | 12.68                | 607.37              | 23.88                    |
 | OrangePi Zero3             | Allwinner H618          | OpenWrt 24.10.2                  | 4            | 317.60           | 11.14                | 1078.89             | 37.04                    |
 | FriendlyElec NanoPi R3S    | Rockchip RK3566         | OpenWrt 24.10.2                  | 4            | 419.93           | 17.65                | 1652.03             | 51.48                    |
