@@ -29,6 +29,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | Cudy TR3000 256MB v1       | MediaTek MT7981BA       | OpenWrt 25.12.2                  | 2            | 313.70           | 11.01                | 602.27              | 19.97                    |
 | Xiaomi Redmi Router AX6S   | MediaTek MT7622BV       | OpenWrt 24.10.2                  | 2            | 304.43           | 12.68                | 607.37              | 23.88                    |
 | OrangePi Zero3             | Allwinner H618          | OpenWrt 24.10.2                  | 4            | 317.60           | 11.14                | 1078.89             | 37.04                    |
+| Radxa Cubie A5E            | Allwinner A527          | OpenWrt 25.12.5                  | 8            | 345.43           | 15.21                | 2349.58             | 98.99                    |
 | FriendlyElec NanoPi R3S    | Rockchip RK3566         | OpenWrt 24.10.2                  | 4            | 419.93           | 17.65                | 1652.03             | 51.48                    |
 | ASUS TUF-AX4200            | MediaTek MT7986A        | OpenWrt 24.10.2                  | 4            | 451.10           | 18.70                | 1799.76             | 56.75                    |
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A        | OpenWrt 24.10.1                  | 4            | 451.73           | 18.78                | 1805.96             | 55.30                    |
