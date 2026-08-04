@@ -35,6 +35,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A        | OpenWrt 24.10.1                  | 4            | 451.73           | 18.78                | 1805.96             | 55.30                    |
 | GL.iNet GL-MT6000          | MediaTek MT7986A        | OpenWrt 24.10.5                  | 4            | 447.03           | 18.48                | 1793.36             | 54.51                    |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10.4                  | 4            | 463.17           | 24.18                | 1845.56             | 94.76                    |
+| FriendlyElec NanoPi R4SE   | Rockchip RK3399         | OpenWrt 25.12.5                  | 6            | 569.36           | 30.30                | 2587.16             | 107.72                   |
 | ASUSTeK Z62FP              | Intel Core2 T7200       | OpenWrt 24.10.4                  | 2            | 840.77           | 706.54               | 1680.67             | 1289.96                  |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10-SNAPSHOT mtk-feed  | 4            | 896.83           | 24.15                | 3560.60             | 94.02                    |
 | Radxa ROCK Pi 4B+          | Rockchip OP1 64-bit SoC | OpenWrt 24.10.2                  | 6            | 512.30           | 21.98                | 2146.80             | 80.34                    |
