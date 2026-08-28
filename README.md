@@ -36,6 +36,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | ASUS TUF-AX4200            | MediaTek MT7986A        | OpenWrt 24.10.2                  | 4            | 451.10           | 18.70                | 1799.76             | 56.75                    |
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A        | OpenWrt 24.10.1                  | 4            | 451.73           | 18.78                | 1805.96             | 55.30                    |
 | GL.iNet GL-MT6000          | MediaTek MT7986A        | OpenWrt 24.10.5                  | 4            | 447.03           | 18.48                | 1793.36             | 54.51                    |
+| HINLINK H28K               | RockChip RK3528A        | OpenWrt 25.12.5                  | 4            | 449.50           | 16.37                | 1720.08             | 52.23                    |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10.4                  | 4            | 463.17           | 24.18                | 1845.56             | 94.76                    |
 | Hiveton H5000M             | MediaTek MT7987A        | OpenWrt 25.12.5                  | 4            | 488.03           | 19.79                | 1931.53             | 55.92                    |
 | FriendlyElec NanoPi R4SE   | Rockchip RK3399         | OpenWrt 25.12.5                  | 6            | 569.36           | 30.30                | 2587.16             | 107.72                   |
