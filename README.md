@@ -40,6 +40,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | HINLINK H28K               | RockChip RK3528A        | OpenWrt 25.12.5                  | 4            | 449.50           | 16.37                | 1720.08             | 52.23                    |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10.4                  | 4            | 463.17           | 24.18                | 1845.56             | 94.76                    |
 | Hiveton H5000M             | MediaTek MT7987A        | OpenWrt 25.12.5                  | 4            | 488.03           | 19.79                | 1931.53             | 55.92                    |
+| Nokia Beacon 10            | Qualcomm IPQ9574        | OpenWrt SNAPSHOT 6.18            | 4            | 539.37           | 32.09                | 2157.26             | 126.60                   |
 | FriendlyElec NanoPi R4SE   | Rockchip RK3399         | OpenWrt 25.12.5                  | 6            | 569.36           | 30.30                | 2587.16             | 107.72                   |
 | ASUSTeK Z62FP              | Intel Core2 T7200       | OpenWrt 24.10.4                  | 2            | 840.77           | 706.54               | 1680.67             | 1289.96                  |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10-SNAPSHOT mtk-feed  | 4            | 896.83           | 24.15                | 3560.60             | 94.02                    |
