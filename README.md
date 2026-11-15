@@ -39,6 +39,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | GL.iNet GL-MT6000          | MediaTek MT7986A        | OpenWrt 24.10.5                  | 4            | 447.03           | 18.48                | 1793.36             | 54.51                    |
 | HINLINK H28K               | RockChip RK3528A        | OpenWrt 25.12.5                  | 4            | 449.50           | 16.37                | 1720.08             | 52.23                    |
 | Bananapi BPI-R4            | MediaTek MT7988AV       | OpenWrt 24.10.4                  | 4            | 463.17           | 24.18                | 1845.56             | 94.76                    |
+| GL.iNet GL-BE14000         | MediaTek MT7988AV       | OpenWrt SNAPSHOT 6.18            | 4            | 461.19           | 25.95                | 1794.08             | 100.24                   |
 | Hiveton H5000M             | MediaTek MT7987A        | OpenWrt 25.12.5                  | 4            | 488.03           | 19.79                | 1931.53             | 55.92                    |
 | Nokia Beacon 10            | Qualcomm IPQ9574        | OpenWrt SNAPSHOT 6.18            | 4            | 539.37           | 32.09                | 2157.26             | 126.60                   |
 | FriendlyElec NanoPi R4SE   | Rockchip RK3399         | OpenWrt 25.12.5                  | 6            | 569.36           | 30.30                | 2587.16             | 107.72                   |
