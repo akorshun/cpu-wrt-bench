@@ -28,7 +28,7 @@ curl -fsSL -o /tmp/cpu-sdxlemur-bench.sh https://raw.githubusercontent.com/akors
 | Beeline SmartBox TURBO+    | MediaTek MT7621A        | OpenWrt 24.10.1                  | 4            | 35.77            | 7.88                 | 92.83               | 17.94                    |
 | Xunlong Orange Pi PC Plus  | H3 Quad-core Cortex-A7  | OpenWrt 24.10.0                  | 4            | 112.43           | 132.54               | 450.46              | 349.75                   |
 | Depo Sky A60 / AK1100      | Marvell 88F6282         | OpenWrt 25.12.0                  | 1            | 115.87           | 18.00                | 116.20              | 18.15                    |
-| Quectel RM520N-GL          | Qualcomm SDX62          | RM520NGLAAR01A06M4G              | 1            | 189.30           | 192.48               | 178.90              | 198.77                   |
+| Quectel RM520N-GL          | Qualcomm SDX62          | RM520NGLAA R01A06M4G             | 1            | 189.30           | 192.48               | 178.90              | 198.77                   |
 | Gemtek XR1710G             | Airoha AN7581           | ImmortalWrt naoki66 6.18 SNAP    | 4            | 269.70           | 10.71                | 1065.07             | 37.91                    |
 | Nokia XG-040G-MD           | Airoha AN7581           | OpenWrt SNAPSHOT 6.18            | 4            | 270.17           | 12.02                | 1059.15             | 39.45                    |
 | FriendlyElec NanoPi R2S    | Rockchip RK3328         | OpenWrt 24.10.1                  | 4            | 286.60           | 10.80                | 1144.74             | 35.30                    |
